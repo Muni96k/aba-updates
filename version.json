@@ -1,8 +1,8 @@
 {
- "version": "1.6",
+ "version": "1.7",
  "files": {
-  "ABA_Timer.py": "a90f51517436a04ebb1eec800058091f7a0d1547da92f863e18be658247e3eb1",
+  "ABA_Timer.py": "c1d2dcc2a132d0863f991d4c17795310eb016b33b865d97b82ddf71ad182ba21",
   "hotbar_profiles.npz": "b3c47ea931e3154ede2ecb2df480cc64fcfce50c056600d7b58b3943d2206cba"
  },
- "sig": "TpmvZyOehEUORymQxcv0ZcQCKCLxWRg5HqGqY9WKnLFoxbVreeTv8AX1qPPaERcV2JprZsr/My+VzsLnpqfuBA=="
+ "sig": "XhpfOMrqBFXZBLlzNfxwqx4VxFK6aug3Efcgf5HCMXom2dwFAAtk2H6TZwNsmjs3SEBTG9J6qEWSeT+Y30apBg=="
 }
