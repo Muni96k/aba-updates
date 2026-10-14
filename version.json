@@ -1,9 +1,9 @@
 {
- "version": "4.8",
+ "version": "4.7",
  "files": {
-  "astral.py": "b9f885872f97d82ef5c833343a2fbe38dc283208db673da698838e96c1b525e2",
-  "ABA_Timer.py": "b9f885872f97d82ef5c833343a2fbe38dc283208db673da698838e96c1b525e2",
+  "astral.py": "b752409d845e720581d8cc1364f249babf1b547042d370ad6a3d8d9473b2f273",
+  "ABA_Timer.py": "b752409d845e720581d8cc1364f249babf1b547042d370ad6a3d8d9473b2f273",
   "hotbar_profiles.npz": "b3c47ea931e3154ede2ecb2df480cc64fcfce50c056600d7b58b3943d2206cba"
  },
- "sig": "5cPVUuaLx34DM3dlbjfT8w6qJgEJYUEfZlABZN9foDx6e32EnOozHoIXoKJ6KiMp+XEANBOW1HXZLDWmTYQZCA=="
+ "sig": "h0q/df8Vb80pbavuXwoSqB8kWMAHAdoTHK/KXZ1WsBCSArnXdp18em4ctbmbXRpCy42iedtUk5Va66vrg1cUCg=="
 }
