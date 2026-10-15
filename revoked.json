@@ -1,7 +1,9 @@
 {
  "v": 1,
- "seq": 2,
- "issued": 1792038369,
- "revoked": [],
- "sig": "US8tsJt7SlzvOoGMRwngC2iRfP10ieJtDOrG6xtf8iGHGWIcv0JXeuDetpdSqJVwkTvZybrYSyyruZ8f2niJDg=="
+ "seq": 3,
+ "issued": 1792039259,
+ "revoked": [
+  "k:7364879fe28f9a83"
+ ],
+ "sig": "JagW1lSs++cW7P74RLCV6fY470XiKqxTKp9lTMkEp7EARHW9h7WQnv0CkyJES83vBJ+9eFXajQBcrcMQB1SaCw=="
 }
