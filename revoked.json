@@ -1,9 +1,10 @@
 {
  "v": 1,
- "seq": 3,
- "issued": 1792039259,
+ "seq": 4,
+ "issued": 1792039263,
  "revoked": [
+  "k:68fee795f9dea91c",
   "k:7364879fe28f9a83"
  ],
- "sig": "JagW1lSs++cW7P74RLCV6fY470XiKqxTKp9lTMkEp7EARHW9h7WQnv0CkyJES83vBJ+9eFXajQBcrcMQB1SaCw=="
+ "sig": "csEx3KbPl3wfAkBoN6VNYCEGg0DjluhciuTMppR9D/NlkSCyQfka3DimR3c2zIe7OAPYEL5RE+x3v74WxQ/+DQ=="
 }
