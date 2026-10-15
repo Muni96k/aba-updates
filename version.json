@@ -1,8 +1,8 @@
 {
- "version": "4.60",
+ "version": "4.70",
  "files": {
-  "astral.py": "5b7679e1b03587e6a79ca3cd0ad297d60ebfebbb6d6d74626c030eafe27f8b31",
+  "astral.py": "6b8021271c09774fbc93dd656e05204fd0f8b454305dc65bfee7b8536ee7ff49",
   "hotbar_profiles.npz": "e634eba3836bb3e0130dc6d28dd60849c3f47d9559017f299ff1ef3a03a1624d"
  },
- "sig": "jExcoprMxZZVFNZH0iyHQiESj+C2eHax0u6e5g8WSHwaEYz/5+teNyQI93Oo5M/rjA+ebcJaUszc8/jFBjXTCg=="
+ "sig": "x4GOC9foe08LEt2c1kUtmcxg5ilH2y1HY9vZR0jbqRJkHyqovaPK4ebd0cKZtj8sVGQYtgFXz5hyua2L70vSCA=="
 }
