@@ -1,1 +1,1 @@
-ABA Timer update files.
+ASTRAL update feed. Managed automatically.
