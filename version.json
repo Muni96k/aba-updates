@@ -1,8 +1,8 @@
 {
- "version": "6.90",
+ "version": "7.10",
  "files": {
-  "astral_buyer.exe": "719707a7c1798d6ca6e8a053dee17f8b0dc1189adb67398f4d8c775e9da5e402",
-  "hotbar_profiles.npz": "e634eba3836bb3e0130dc6d28dd60849c3f47d9559017f299ff1ef3a03a1624d"
+  "astral_buyer.exe": "cd795642191d5c2eff3ccb6d4c378f263e6b842bde8445ed7dccb9a133c87b57",
+  "hotbar_profiles.npz": "f2c48082f92a3f480db528baa7ce361610ba41e1ac08ceac3400f611f59b0706"
  },
- "sig": "BmcuOk9RKzYzdJPWBKWHUk8bwYL2niGGJTqbaS/2iCXVT2oHBxVk4KLecdT5+0/6jAMXwMs8F+Pv86XkOqV/Dg=="
+ "sig": "UFP4ibTF9TP836Obgb5UsD1TgIGLPMijzW+FRdNYn80c5PCjObe7zWBrw5zwVJ7VyiL6uKfZGSuS4PyTqp0nDw=="
 }
